@@ -1,2 +1,2 @@
-# trustai-marketplace
-AI-assisted marketplace listing risk and price-plausibility analysis platform developed for the Quantic MSSE Capstone Project.
+# TrustAI Marketplace
+AI-powered marketplace assistant that evaluates listing authenticity, pricing, and scam risk for safer online buying and selling.
